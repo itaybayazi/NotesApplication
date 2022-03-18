@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Itay5/AndroidStudioProjects/MoveoApplication/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Itay5/AndroidStudioProjects/MoveoApplication/app/src/main/res/layout/feed_note_row.xml" value="0.27853260869565216" />
+        <entry key="..\:/Users/Itay5/AndroidStudioProjects/MoveoApplication/app/src/main/res/layout/fragment_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Itay5/AndroidStudioProjects/MoveoApplication/app/src/main/res/layout/fragment_note_list_rv.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/Itay5/AndroidStudioProjects/MoveoApplication/app/src/main/res/layout/fragment_register.xml" value="0.33" />
+        <entry key="..\:/Users/Itay5/AndroidStudioProjects/MoveoApplication/app/src/main/res/layout/note_row.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Itay5/Desktop/Computer Science/Interviews/Moveo Android/MoveoApplication_2/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_welcome.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/Itay5/Desktop/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_intro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Itay5/Desktop/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_note_list_rv.xml" value="0.13609467455621302" />
+        <entry key="..\:/Users/Itay5/Desktop/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_welcome.xml" value="0.3134057971014493" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/activity_maps.xml" value="0.3671875" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_add_note.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_details_and_save.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_edit_note.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_intro.xml" value="0.31354166666666666" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_login.xml" value="0.14513677811550152" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_maps.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_note_list_rv.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_register.xml" value="0.14513677811550152" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_welcome.xml" value="0.29528985507246375" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/layout/note_row.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/menu/feed_menu.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication/MoveoApplication/app/src/main/res/menu/welcome_menu.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication_2/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_add_note.xml" value="0.1" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication_2/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_edit_note.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication_2/MoveoApplication/MoveoApplication/app/src/main/res/layout/fragment_welcome.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication_2/MoveoApplication/MoveoApplication/app/src/main/res/menu/feed_menu.xml" value="0.1" />
+        <entry key="..\:/Users/zehav/Downloads/MoveoApplication_2/MoveoApplication/MoveoApplication/app/src/main/res/menu/welcome_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
